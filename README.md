@@ -27,7 +27,7 @@ I am using Djongo becauase it is the easiest way to integrate with Django.
 you can also use other two method visit the below link:
 https://www.mongodb.com/compatibility/mongodb-and-django
 
- Install Djongo:
+ First install Djongo:
 
       pip install djongo
 

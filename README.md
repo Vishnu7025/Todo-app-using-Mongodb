@@ -6,7 +6,7 @@
 
 
 ## 🚀 About Me
-I’m a Python | Django developer based in Trivandrum, Kerala, curious to learn more about developing scalable distributed systems, loves problem solving and cares about writing readable as well as maintainable code.
+I’m a Python | Django developer based in Trivandrum, Kerala, curious to learn more about developing systems, loves problem solving and cares about writing readable as well as maintainable code.
 
 
 ## Connect Django to MongoDB
